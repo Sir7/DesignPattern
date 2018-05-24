@@ -4,7 +4,7 @@ package com.creational.factorymethod.simplefactory;
  * @Title: MusicPlayer
  * @Description: 
  * @author yang.lvsen
- * @date 2018Äê5ÔÂ24ÈÕ ÏÂÎç3:10:51
+ * @date 2018å¹´5æœˆ24æ—¥ ä¸‹åˆ3:10:51
  */
 public class MusicPlayer implements Player {
 

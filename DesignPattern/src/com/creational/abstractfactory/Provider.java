@@ -4,7 +4,7 @@ package com.creational.abstractfactory;
  * @Title: Provider
  * @Description: 
  * @author yang.lvsen
- * @date 2018Äê5ÔÂ24ÈÕ ÏÂÎç3:33:05
+ * @date 2018å¹´5æœˆ24æ—¥ ä¸‹åˆ3:33:05
  */
 public interface Provider {
 	

@@ -4,7 +4,7 @@ package com.creational.abstractfactory;
  * @Title: VideoPlayerFactory
  * @Description: 
  * @author yang.lvsen
- * @date 2018Äê5ÔÂ24ÈÕ ÏÂÎç3:34:34
+ * @date 2018å¹´æœˆ5æœˆ24æ—¥ ä¸‹åˆ3:34:34
  */
 public class VideoPlayerFactory implements Provider{
 

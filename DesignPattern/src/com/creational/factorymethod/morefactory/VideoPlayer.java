@@ -4,7 +4,7 @@ package com.creational.factorymethod.morefactory;
  * @Title: VideoPlayer
  * @Description: 
  * @author yang.lvsen
- * @date 2018Äê5ÔÂ24ÈÕ ÏÂÎç3:11:29
+ * @date 2018å¹´5æœˆ24æ—¥ ä¸‹åˆ3:11:29
  */
 public class VideoPlayer implements Player{
 

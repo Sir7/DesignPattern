@@ -2,9 +2,9 @@ package com.creational.abstractfactory;
 
 /** 
  * @Title: Player
- * @Description: ³éÏó¹¤³§Ä£Ê½
+ * @Description: æŠ½è±¡å·¥å‚æ¨¡å¼
  * @author yang.lvsen
- * @date 2018Äê5ÔÂ24ÈÕ ÏÂÎç3:09:59
+ * @date 2018å¹´5æœˆ24æ—¥ ä¸‹åˆ3:09:59
  */
 public interface Player {
 	

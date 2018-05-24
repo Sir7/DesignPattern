@@ -4,14 +4,14 @@ package com.creational.abstractfactory;
  * @Title: Test
  * @Description: 
  * @author yang.lvsen
- * @date 2018Äê5ÔÂ24ÈÕ ÏÂÎç3:35:27
+ * @date 2018å¹´5æœˆ24æ—¥ ä¸‹åˆ3:35:27
  */
 public class Test {
 	
 	public static void main(String[] args) {
 		Provider p = new MusicPlayerFactory();
 		MusicPlayer mp = (MusicPlayer) p.produce();
-		//Êä³ö½á¹û£ºMusic begin playing
+		//è¾“å‡ºMusic begin playing
 		mp.Play();
 	}
 

@@ -2,9 +2,9 @@ package com.creational.factorymethod.simplefactory;
 
 /** 
  * @Title: PlayFactory
- * @Description: ´´½¨¹¤³§
+ * @Description: 
  * @author yang.lvsen
- * @date 2018Äê5ÔÂ24ÈÕ ÏÂÎç3:12:08
+ * @date 2018å¹´5æœˆ24æ—¥ ä¸‹åˆ3:12:08
  */
 public class PlayFactory {
 	

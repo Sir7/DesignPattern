@@ -4,7 +4,7 @@ package com.creational.abstractfactory;
  * @Title: MusicPlayerFactory
  * @Description: 
  * @author yang.lvsen
- * @date 2018Äê5ÔÂ24ÈÕ ÏÂÎç3:33:50
+ * @date 2018å¹´5æœˆ24æ—¥ ä¸‹åˆ3:33:50
  */
 public class MusicPlayerFactory implements Provider{
 

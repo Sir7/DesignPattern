@@ -2,16 +2,13 @@ package com.creational.factorymethod.staticfactory;
 
 /** 
  * @Title: FactoryTest
- * @Description: ¾²Ì¬¹¤³§Ä£Ê½²âÊÔ
+ * @Description: é™æ€å·¥å‚æ¨¡å¼
  * @author yang.lvsen
- * @date 2018Äê5ÔÂ24ÈÕ ÏÂÎç3:14:12
+ * @date 2018å¹´5æœˆ24æ—¥ ä¸‹åˆ3:14:12
  */
 public class FactoryTest {
-	/**
-	 * ¼òµ¥¹¤³§Ä£Ê½Èç¹û´«ÈëµÄ×Ö·û´®ÓĞÎó£¬²»ÄÜÕıÈ·´´½¨¶ÔÏó£¬¾²Ì¬¹¤³§Ä£Ê½Ïà¶ÔÓÚ¶à¹¤³§Ä£Ê½£¬²»ĞèÒªÊµÀı»¯¹¤³§Àà¡£ËùÒÔ¹¤³§Ä£Ê½Ñ¡Ôñ
-	 */
 	
-	//´òÓ¡£ºMusic begin Playing!
+	//Music begin Playing!
 	public static void main(String[] args) {
 		MusicPlayer p = (MusicPlayer) PlayFactory.produceMusic();
 		p.Play();

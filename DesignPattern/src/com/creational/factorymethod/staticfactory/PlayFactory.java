@@ -6,9 +6,9 @@ import com.creational.factorymethod.morefactory.VideoPlayer;
 
 /** 
  * @Title: PlayFactory
- * @Description: ´´½¨¹¤³§
+ * @Description: é™æ€å·¥å‚æ¨¡å¼
  * @author yang.lvsen
- * @date 2018Äê5ÔÂ24ÈÕ ÏÂÎç3:12:08
+ * @date 2018å¹´5æœˆ24æ—¥ ä¸‹åˆ3:12:08
  */
 public class PlayFactory {
 	

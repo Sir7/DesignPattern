@@ -2,16 +2,13 @@ package com.creational.factorymethod.morefactory;
 
 /** 
  * @Title: FactoryTest
- * @Description: ¶à¹¤³§Ä£Ê½²âÊÔ
+ * @Description: å¤šå·¥å‚æ¨¡å¼
  * @author yang.lvsen
- * @date 2018Äê5ÔÂ24ÈÕ ÏÂÎç3:14:12
+ * @date 2018å¹´5æœˆ24æ—¥ ä¸‹åˆ3:14:12
  */
 public class FactoryTest {
-	/**
-	 * ĞèÒªÊµÀı»¯¹¤³§Àà!!!
-	 */
 	
-	//´òÓ¡£ºMusic begin Playing!
+	//è¾“å‡ºMusic begin Playing!
 	public static void main(String[] args) {
 		PlayFactory pf = new PlayFactory();
 		Player p = pf.produceMusic();
