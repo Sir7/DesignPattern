@@ -1,8 +1,8 @@
-package com.creational.factorymethod.staticfactory;
+package com.creational.factory_method.staticfactory;
 
-import com.creational.factorymethod.morefactory.MusicPlayer;
-import com.creational.factorymethod.morefactory.Player;
-import com.creational.factorymethod.morefactory.VideoPlayer;
+import com.creational.factory_method.morefactory.MusicPlayer;
+import com.creational.factory_method.morefactory.Player;
+import com.creational.factory_method.morefactory.VideoPlayer;
 
 /** 
  * @Title: PlayFactory

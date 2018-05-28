@@ -1,4 +1,4 @@
-package com.creational.factorymethod.staticfactory;
+package com.creational.factory_method.staticfactory;
 
 /** 
  * @Title: Player

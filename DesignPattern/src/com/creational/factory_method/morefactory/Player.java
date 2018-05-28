@@ -1,4 +1,4 @@
-package com.creational.factorymethod.morefactory;
+package com.creational.factory_method.morefactory;
 
 /** 
  * @Title: Player
